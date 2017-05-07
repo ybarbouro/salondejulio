@@ -1,0 +1,17 @@
+name: SALÓN DE JULIO
+markdown: kramdown
+highlighter: rouge
+exclude: [main.scss, config.rb]
+description: Sitio informativo del Programa Museo, Arte y Ciudad - Salón de Julio 2017
+url: http://salondejulio.com/
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      type: projects
+    values:
+      layout: project
