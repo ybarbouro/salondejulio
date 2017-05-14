@@ -176,6 +176,17 @@ h2.league-three {
   color: #e76a00;
   padding-bottom: 1.3rem;
 }
+
+h2.league-four{
+  font-family:'league_gothic', sans-serif;
+  font-weight: bold;
+  font-size: 3.7rem;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.7);
+  color: #069;
+  padding-bottom: 1.3rem;
+	letter-spacing: 2px;
+}
+
 .aside{
   background-color:#eee;
   border:solid #c8c8c8;
@@ -339,6 +350,13 @@ h2.league-three {
 	  overflow:hidden;
 	  padding:2em 0 1em;
 		margin-top: 100px;}
+
+.site-section-actividades {
+	 background-color: #131A22;
+	 padding:2em 0 1em;
+	 margin-top: 0;
+}
+
 
 .site-section-nm{
     background-color:#1a1a1a;
