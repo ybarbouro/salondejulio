@@ -172,8 +172,8 @@ textarea {
 font-family: 'Yanone Kaffeesatz', sans-serif;
 font-size: 1em;
 letter-spacing: 1px;
-color: #333;
-width: 320px;
+color: #222;
+width: 420px;
 }
 
 @media only screen and (max-width:600px){
@@ -199,7 +199,7 @@ width: 320px;
               background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
               background-repeat: no-repeat, repeat;
               background-position: top, center;
-              background-size: 50%, none;
+              background-size: 150px, none;
             }
 }
 
@@ -216,7 +216,7 @@ width: 320px;
               background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
               background-repeat: no-repeat, repeat;
               background-position: top, center;
-              background-size: 50%, none;
+              background-size: 150px, none;
         }
 }
 
