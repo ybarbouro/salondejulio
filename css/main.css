@@ -172,8 +172,8 @@ textarea {
 font-family: 'Yanone Kaffeesatz', sans-serif;
 font-size: 1em;
 letter-spacing: 1px;
-color: #222;
-width: 420px;
+color: #111;
+max-width: 315px;
 }
 
 @media only screen and (max-width:600px){
