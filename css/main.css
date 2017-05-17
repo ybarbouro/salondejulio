@@ -199,7 +199,7 @@ max-width: 315px;
               background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
               background-repeat: no-repeat, repeat;
               background-position: top, center;
-              background-size: 150px, none;
+              background-size: auto, none;
             }
 }
 
@@ -216,7 +216,7 @@ max-width: 315px;
               background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
               background-repeat: no-repeat, repeat;
               background-position: top, center;
-              background-size: 150px, none;
+              background-size: auto, none;
         }
 }
 
