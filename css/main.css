@@ -195,6 +195,12 @@ width: 320px;
 .texture-teal {
           background-size: contain;
         }
+.blackmamba {
+              background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
+              background-repeat: no-repeat, repeat;
+              background-position: top, center;
+              background-size: 50%, none;
+            }
 }
 
 @media only screen and (max-width:320px){
@@ -204,6 +210,13 @@ width: 320px;
   }
 .texture-teal {
           background-size: contain;
+        }
+
+.blackmamba {
+              background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
+              background-repeat: no-repeat, repeat;
+              background-position: top, center;
+              background-size: 50%, none;
         }
 }
 

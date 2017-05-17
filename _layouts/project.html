@@ -37,6 +37,11 @@
               <h5><i class="fa fa-twitter fa-lg"></i><strong> &commat;{{ page.twitter }}</strong> </h5>
               {% endif %}
 
+              {% if page.mail %}
+              <h5><i class="fa fa-envelope fa-lg"></i></h5>
+              <p>{{ page.mail }}</p>
+              {% endif %}
+
               {% if page.bio %}
               <h5><i class="fa fa-file-text fa-lg"></i></h5>
               <p>{{ page.bio }}</p>
