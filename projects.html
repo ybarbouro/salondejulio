@@ -2,9 +2,8 @@
 layout: stars
 title: Projects
 ---
-<div class="container">
 
-  <h2 class="league-two">ACTIVIDADES PERMANENTES</h2>
+<div class="container">
 
   {% assign projects = site.projects | sort: 'listing-priority' %}
   {% for project in projects %}
@@ -18,7 +17,7 @@ title: Projects
     {% endif %}
 
   </div>
-  <div class="col col-7" style="color:rgba(255,255,255,0.5); text-align:left;">
+  <div class="col col-7" style="color:#1a1a1a; text-align:left;">
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
       {{ project.excerpt }}
   </div>
