@@ -77,6 +77,18 @@ h3{
   width:30%;
   word-spacing:normal;}
 
+.grid-cell-b{
+  display:inline-block;
+  letter-spacing:normal;
+  text-align:left;
+  text-rendering:auto;
+  vertical-align:top;
+  width:46%;
+  word-spacing:normal;
+  font-size:1rem;
+}
+
+
 .grid-cell-left{
     display:inline-block;
     letter-spacing:normal;
