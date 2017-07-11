@@ -90,6 +90,16 @@ h3{
 	color: #555;
 }
 
+.grid-cell-b h4{
+	color: #1a1a1a;
+	font-family: "Open sans", sans-serif;
+}
+
+.grid-cell-b img {
+	border-radius: 50%;
+	border: 3px rgba(170,170,170,0.3) solid;
+	width:40%;
+}
 
 .grid-cell-left{
     display:inline-block;
