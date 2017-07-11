@@ -161,6 +161,15 @@ img.wide {
       background-position: top, center;
       background-size: contain, none;
 }
+.suscribe-b {
+  background-color:brown;
+  color:#fff;
+  letter-spacing:2px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
 .data {
   text-align: left;
   color: #1a1a1a;
