@@ -78,7 +78,7 @@ h3{
   word-spacing:normal;}
 
 .grid-cell-b{
-  display:inline-block;
+	display:inline-block;
   letter-spacing:normal;
   text-align:left;
   text-rendering:auto;
@@ -90,15 +90,21 @@ h3{
 	color: #555;
 }
 
-.grid-cell-b h4{
+.grid-cell-b h4, p{
 	color: #1a1a1a;
 	font-family: "Open sans", sans-serif;
 }
 
 .grid-cell-b img {
 	border-radius: 50%;
-	border: 3px rgba(170,170,170,0.3) solid;
+	border: 5px rgba(170,170,170,0.3) solid;
 	width:40%;
+}
+
+.grid-cell-b figure {
+	padding-bottom: 20px;
+	margin: 0 auto;
+
 }
 
 .grid-cell-left{
