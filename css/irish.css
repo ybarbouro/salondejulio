@@ -102,8 +102,11 @@ h3{
 }
 
 .grid-cell-b figure {
-	padding-bottom: 20px;
-	margin: 0 auto;
+	padding-bottom: 10px;
+	display:block;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
 
 }
 
