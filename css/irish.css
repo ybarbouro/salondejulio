@@ -85,14 +85,18 @@ h3{
   vertical-align:top;
   width:47%;
   word-spacing:normal;
-  font-size:1.1rem;
 	margin: 35px 12px 5px 0;
-	color: #555;
 }
 
-.grid-cell-b h4, p{
+.grid-cell-b h4{
 	color: #1a1a1a;
 	font-family: "Open sans", sans-serif;
+}
+
+.grid-cell-b p{
+	color: #555;
+	font-family: "Open sans", sans-serif;
+	font-size:1rem;
 }
 
 .grid-cell-b img {
@@ -105,8 +109,7 @@ h3{
 	padding-bottom: 10px;
 	display:block;
 	margin: 0;
-	margin-left: auto;
-	margin-right: auto;
+	margin-right: 20%;
 
 }
 
