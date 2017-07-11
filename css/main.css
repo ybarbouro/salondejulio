@@ -115,6 +115,19 @@ textarea {
   color: rgba(255,255,255,0.3);
 }
 
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+img.wide {
+  max-width: 100%;
+}
+
 .blugray {
   color: #B0BEC5;
 }
