@@ -223,6 +223,16 @@ h2.league-four{
 	letter-spacing: 2px;
 }
 
+h2.league-teal{
+  font-family:'league_gothic', sans-serif;
+  font-weight: bold;
+  font-size: 3.7rem;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.7);
+  color: teal;
+  padding-bottom: 1.3rem;
+	letter-spacing: 2px;
+}
+
 .aside{
   background-color:#eee;
   border:solid #c8c8c8;
@@ -270,6 +280,8 @@ h2.league-four{
   background-color:#555}
 .star{
   color:#E65100}
+.starG{
+	  color:#00B0FF}
 .Icon{
   display:inline-block;
   height:48px;

@@ -63,7 +63,7 @@ h3{
   min-height: 20px;
 }
 .grid{
-  margin:0 -15px;
+  margin:30px -5px 50px 0;
   letter-spacing:-.31em;
   word-spacing:-.43em;
   text-rendering:optimizespeed;}
@@ -76,6 +76,42 @@ h3{
   vertical-align:top;
   width:30%;
   word-spacing:normal;}
+
+.grid-cell-b{
+	display:inline-block;
+  letter-spacing:normal;
+  text-align:left;
+  text-rendering:auto;
+  vertical-align:top;
+  width:47%;
+  word-spacing:normal;
+	margin: 35px 12px 5px 0;
+}
+
+.grid-cell-b h4{
+	color: #1a1a1a;
+	font-family: "Open sans", sans-serif;
+}
+
+.grid-cell-b p{
+	color: #555;
+	font-family: "Open sans", sans-serif;
+	font-size:1rem;
+}
+
+.grid-cell-b img {
+	border-radius: 50%;
+	border: 5px rgba(170,170,170,0.3) solid;
+	width:33%;
+	margin-left: 33%;
+}
+
+.grid-cell-b figure {
+	padding-bottom: 7px;
+	display:block;
+	margin: 0;
+
+}
 
 .grid-cell-left{
     display:inline-block;
@@ -187,6 +223,16 @@ h2.league-four{
 	letter-spacing: 2px;
 }
 
+h2.league-teal{
+  font-family:'league_gothic', sans-serif;
+  font-weight: bold;
+  font-size: 3.7rem;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.7);
+  color: teal;
+  padding-bottom: 1.3rem;
+	letter-spacing: 2px;
+}
+
 .aside{
   background-color:#eee;
   border:solid #c8c8c8;
@@ -234,6 +280,8 @@ h2.league-four{
   background-color:#555}
 .star{
   color:#E65100}
+.starG{
+	  color:#00B0FF}
 .Icon{
   display:inline-block;
   height:48px;

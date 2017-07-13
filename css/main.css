@@ -257,6 +257,31 @@ span.suscrib{
   line-height: 2em;
 }
 
+
+/* ==========================================================================
+   Big picture rules
+   ========================================================================== */
+
+.flex-img {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.flex-img img,
+.flex-img div {
+  margin: .2em;
+  cursor: pointer;
+  border-radius: 2px;
+  max-width: calc(30% - 12px);
+  box-shadow: 0px .1em .7em rgba(0, 0, 0, 0.2);
+}
+
+.flex-img div {
+  display: inline-block;
+  margin: 5px;
+  /*max-width: calc(50% - 12px);*/
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
