@@ -8,8 +8,7 @@ autor: Javier Gavilanes S.
 obra: Percepciones entrecruzadas.
 tecnica: Polvo de pintura removida y conservada en celdas de plástico.
 premio: Primer premio 2017
-image-thumb:
-https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500798022/020_Percepciones_entrecruzadas_t2rnwh.jpg
+image-thumb: https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500798022/020_Percepciones_entrecruzadas_t2rnwh.jpg
 ffw: Leer más
 
 ---

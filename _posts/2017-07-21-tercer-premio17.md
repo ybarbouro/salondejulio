@@ -3,8 +3,7 @@ layout: post
 title: El problema de lo imaginario “LITIGIO”
 date: 2017-07-21 03:00:00
 comment: El autor propone.
-image:
-https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797779/024-el_problema_de_lo_imaginario_syfi6z.jpg
+image: https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797779/024-el_problema_de_lo_imaginario_syfi6z.jpg
 autor: Marcel Leonardo Moyano Mera
 obra: El problema de lo imaginario “LITIGIO” (de la serie prácticas y estrategias de control)
 tecnica: Acrílico sobre lona
