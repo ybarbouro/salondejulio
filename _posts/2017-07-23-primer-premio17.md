@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Percepciones entrecruzadas.
-date: 2017-07-23 03:30:00
+date: 2017-07-23 03:33:00
 comment: El autor propone
 image: https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797310/DSC07600_m9cnzf.jpg
 autor: Javier Gavilanes S.
