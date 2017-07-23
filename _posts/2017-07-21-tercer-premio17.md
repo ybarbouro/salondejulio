@@ -13,7 +13,9 @@ ffw: Leer más
 
 ---
 
-<p><strong>Cuando se intenta desfragmentar lo imaginario</strong> en la oficialidad de la sociedad, nos encontramos con arquetipos, contradictorios e incoherentes que nos involucran a todos. Nuestro territorio se divide y se ha dividido a lo largo de la consolidación como estado nación, carece de autonomía, se fracciona y se reparte; mas no podemos huir de la artificialidad de las fronteras. A partir de esto múltiples dinámicas se han ido perfeccionando, tal como la vigilancia dirigida de unos grupos hacia otros como un rasgo institucional, centralizado y omnipresente, donde el intento del control toma presencia a partir de la individualización de cada persona dentro del espacio.</p>
+<p><strong>Cuando se intenta desfragmentar lo imaginario</strong> en la oficialidad de la sociedad, nos encontramos con arquetipos, contradictorios e incoherentes que nos involucran a todos.</p>
+
+Nuestro territorio se divide y se ha dividido a lo largo de la consolidación como estado nación, carece de autonomía, se fracciona y se reparte; mas no podemos huir de la artificialidad de las fronteras. A partir de esto múltiples dinámicas se han ido perfeccionando, tal como la vigilancia dirigida de unos grupos hacia otros como un rasgo institucional, centralizado y omnipresente, donde el intento del control toma presencia a partir de la individualización de cada persona dentro del espacio.
 
 Creando dentro de él, un habitad de conflicto en la que la certeza de estos límites se diluye, son espacios que, al recorrerlos, el espectador carece de memoria, de ambivalencia como sujeto hacia lo que presencia y representa.
 
