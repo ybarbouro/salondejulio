@@ -3,7 +3,7 @@ layout: post
 title: El problema de lo imaginario “LITIGIO”
 date: 2017-07-21 03:00:00
 comment: El autor propone.
-image: https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797779/024-el_problema_de_lo_imaginario_syfi6z.jpg
+image: https://res.cloudinary.com/magnvs/image/upload/v1500799707/Leonardo-Moyano-tercer-premio_qfjzmy.jpg
 autor: Marcel Leonardo Moyano Mera
 obra: El problema de lo imaginario “LITIGIO” (de la serie prácticas y estrategias de control)
 tecnica: Acrílico sobre lona
@@ -20,3 +20,5 @@ Creando dentro de él, un habitad de conflicto en la que la certeza de estos lí
 Dentro de todas estas circunstancias elijo este paisaje traducido al interior de una sala en una casa cualquiera del sur que se convierte en un espacio vacío y nos invita a recorrerla de forma que el espectador sea parte de lo imaginario que se representa, un poco recurrente en la gráfica local diaria, como rasgo de lo que hubo, espacios que formaban parte de la memoria diaria pero que hoy solo son vestigios de un recuerdo. La cual es atravesada por la línea imaginaria representante emblemática de la cultura local y a la vez su presencia y representación es evidente en los mapas de fronteras claras y establecidas, divisorias de países y demás inventos de la sociedad para limitar problemas.
 
 Cuando la línea imaginaria se hace evidente en una cultura o sociedad que sin saberlo ya es divisionista, que marca las mitades o lo limítrofe por el ecuador o en el ecuador.
+
+<small>Fuente de la fotografía:<a href="http://www.larepublica.ec/blog/cultura/2017/07/20/javier-gavilanes-gana-primer-premio-salon-de-julio/">www.larepublica.ec</a></small>
