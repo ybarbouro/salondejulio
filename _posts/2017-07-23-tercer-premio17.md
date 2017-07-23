@@ -2,6 +2,7 @@
 layout: post
 title: El problema de lo imaginario “LITIGIO” (de la serie prácticas y estrategias de control)
 date: 2017-07-23 03:00:00
+comment: El autor propone.
 image: "http://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1493872411/mmgye/otis.jpg"
 autor: Marcel Leonardo Moyano Mera
 obra: El problema de lo imaginario “LITIGIO” (de la serie prácticas y estrategias de control)
