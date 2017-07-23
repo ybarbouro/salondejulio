@@ -8,9 +8,9 @@ autor: Javier Gavilanes S.
 obra: Percepciones entrecruzadas.
 tecnica: Polvo de pintura removida y conservada en celdas de plástico.
 premio: Primer premio 2017
-ffw: Leer más
-image-thumb:
+imagethumb:
 "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500798022/020_Percepciones_entrecruzadas_t2rnwh.jpg"
+ffw: Leer más
 ---
 
 <p><strong>En lo personal</strong>, todo mi trabajo lo vínculo con los materiales de construcción, resignificándolo en el campo del arte contemporáneo, en especial, el de la pintura. Transformando mi experiencia, en obras que van más allá de lo estético, discursando entre lo constructivo y lo minimal. <br />En este caso, mi propuesta aborda el paisaje desde un punto de investigación donde la recopilación es la acción fundamental a la hora de realizar esta obra, la misma que se compone con el polvo de pintura de varios colores, extraída de las paredes de las casas de familiar adineradas como también de familias menos acomodadas (si se podría decir así).</p>

@@ -8,8 +8,9 @@ autor: Marcel Leonardo Moyano Mera
 obra: El problema de lo imaginario “LITIGIO” (de la serie prácticas y estrategias de control)
 tecnica: Acrílico sobre lona
 premio: Tercer premio 2017
+imagetumb: "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797779/024-el_problema_de_lo_imaginario_syfi6z.jpg"
 ffw: Leer más
-image-tumb: "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797779/024-el_problema_de_lo_imaginario_syfi6z.jpg"
+
 ---
 
 <p><strong>Cuando se intenta desfragmentar lo imaginario</strong> en la oficialidad de la sociedad, nos encontramos con arquetipos, contradictorios e incoherentes que nos involucran a todos. Nuestro territorio se divide y se ha dividido a lo largo de la consolidación como estado nación, carece de autonomía, se fracciona y se reparte; mas no podemos huir de la artificialidad de las fronteras. A partir de esto múltiples dinámicas se han ido perfeccionando, tal como la vigilancia dirigida de unos grupos hacia otros como un rasgo institucional, centralizado y omnipresente, donde el intento del control toma presencia a partir de la individualización de cada persona dentro del espacio.</p>

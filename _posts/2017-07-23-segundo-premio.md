@@ -8,10 +8,9 @@ autor: Emilio Antonio Serquive Valarezo
 obra: La gota que derramó el caso II (Serie veredas frías).
 tecnica: Óleo, acrílico, carboncillo/ lienzo y mdf
 premio: Segundo premio 2017
-ffw: Leer más
-image-tumb:
+imagetumb:
 "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500797750/03-la_gota_que_derramo_el_vaso_a0tmnk.jpg"
-
+ffw: Leer más
 ---
 
 <p><strong>Eh aquí el hombre,</strong> ser artificial protagonista de su destrucción lleno de leyes y trampas, argumentos falsos para escudar su comportamiento errado, ser que enajena y destruye la realidad circundante de su hábitat.</p>
