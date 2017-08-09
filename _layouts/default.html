@@ -69,24 +69,6 @@
   ga('send', 'pageview');
 
         </script>
-        <script>
-        !function(t,e){
-            "use strict";
-            function a(t,n){
-              return t.hasAttribute(n)===!0?t:t.parentNode!==r.body?a(t.parentNode,n):e}
-            function n(n){
-              var o,i,r,c,g,u=a(n.target,"data-ga-action"),l=!1;
-              u!==e&&(o=u.getAttribute("data-ga-action")||e,i=u.getAttribute("data-ga-category")||e,r=u.getAttribute("data-ga-label")||e,c=u.getAttribute("href"),g=parseInt(u.getAttribute("data-ga-value"),10)||e,ga!==e&&i!==e&&o!==e&&(n.preventDefault(),"Download"!==i&&n.ctrlKey!==!0&&n.metaKey!==!0&&2!==n.which||(l=!0,t.open(c)),function(a){
-                var n;
-                ga("send","event",i,o,r,g,{
-                  hitCallback:function(){
-                    l===!1&&(n!==e&&clearTimeout(n),t.location=a)}
-                }
-                  ),n=setTimeout(function(){
-                  l===!1&&(t.location.href=a)}
-                                 ,1e3)}
-        (c)))};
-          </script>
 
     </body>
 </html>
