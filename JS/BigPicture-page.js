@@ -1,7 +1,7 @@
  (function() {
 
     function setClickHandler(id, fn) {
-      document.getElementById(id).onclick = fn;
+      document.getElementById(id).onclick= fn;
     }
 
     setClickHandler('image_container', function(e) {
