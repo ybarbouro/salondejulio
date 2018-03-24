@@ -13,10 +13,10 @@ nav-area: home
           <img src="{{ post.image }}" alt="Fotografía de {{ post.title }}">
           {% endif %}
 
-            <h1><a class="no-hov" href="{{post.url}}">{{ post.title }}</a></h1>
+            <h1><a class="no-hov" href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></h1>
             <h2>{{ post.comment }}</h2>
             {{ post.excerpt }}
-            <p><i class="fa fa-arrow-circle-right"></i> <a href="{{post.url}}">{{ post.ffw }}</a></p>
+            <p><i class="fa fa-arrow-circle-right"></i> <a href="{{ site.baseurl }}{{post.url}}">{{ post.ffw }}</a></p>
           </article>
 
           {% for post in site.posts offset: 1 limit: 2 %}
@@ -25,10 +25,10 @@ nav-area: home
           <img src="{{ post.image }}" alt="Fotografía de {{ post.title }}">
           {% endif %}
 
-            <h1><a class="no-hov" href="{{post.url}}">{{ post.title }}</a></h1>
+            <h1><a class="no-hov" href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></h1>
             <h2>{{ post.comment }}</h2>
             {{ post.excerpt }}
-            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="{{post.url}}">{{ post.ffw }}</a></p>
+            <p><i class="fa fa-arrow-circle-o-right"></i> <a href="{{ site.baseurl }}{{post.url}}">{{ post.ffw }}</a></p>
         </article>
             {% endfor %}
         </section>

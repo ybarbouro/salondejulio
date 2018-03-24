@@ -4,7 +4,7 @@ highlighter: rouge
 exclude: [main.scss, config.rb]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Salón de Julio 2017
 url: https://www.salondejulio.com/
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/salondejulio" # the subpath of your site, e.g. /blog
 permalink: pretty
 
 collections:

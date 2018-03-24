@@ -10,7 +10,7 @@
             <article>
               <div class="blank"></div>
 
-              <img  style="border-radius:7px 7px 0 0;" src="/img/snake.png" />
+              <img  style="border-radius:7px 7px 0 0;" src="{{ site.baseurl }}/img/snake.png" />
 
               {% if page.image %}
               <img style="border-radius:0 0 7px 7px;" src="{{ page.image }}" alt="Fotografía de {{ page.title }}">
@@ -44,11 +44,11 @@
 {% include footer.html %}
 
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/JS/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-   
-  
-        <script src="/JS/kube.js"></script>
-        <script src="/JS/wow.js"></script>
+        <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/JS/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+
+
+        <script src="{{ site.baseurl }}/JS/kube.js"></script>
+        <script src="{{ site.baseurl }}/JS/wow.js"></script>
 
         <script>
         wow = new WOW(

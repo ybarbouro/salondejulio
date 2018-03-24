@@ -8,8 +8,8 @@ layout: bases
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <script src="/JS/vendor/modernizr-2.8.3.min.js"></script>
-        <link href="/css/kube.css" rel="stylesheet">
+        <script src="{{ site.baseurl }}/JS/vendor/modernizr-2.8.3.min.js"></script>
+        <link href="{{ site.baseurl }}/css/kube.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Opens+Sans" rel="stylesheet">
         <style>
 
@@ -48,7 +48,7 @@ layout: bases
           margin:10px;
         }
         .header {
-          background: url('/img/escudo-gye.svg') top center no-repeat;
+          background: url('{{ site.baseurl }}/img/escudo-gye.svg') top center no-repeat;
           background-size: 15%;
           text-align: center;
           word-spacing: 10px;
@@ -167,7 +167,7 @@ layout: bases
 <body>
 <div class="row">
     <div class="col col-12" style="margin: 30px;">
-	   <a href="/" class="button upper outline" role="button">INICIO</a>
+	   <a href="{{ site.baseurl }}/" class="button upper outline" role="button">INICIO</a>
     </div>
     </div>
 <div class="header">
@@ -381,7 +381,7 @@ layout: bases
   </p>
 </div>
 <figure>
-  <img src="/img/logo-municp.svg"/>
+  <img src="{{ site.baseurl }}/img/logo-municp.svg"/>
 </figure>
 </article>
 <script>
