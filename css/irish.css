@@ -358,7 +358,7 @@ h2.league-teal{
     color:#00B0FF}
 
 .site-promo{
-  padding:1em 0 6em}
+  padding:4em 0 9em}
 .site-promo .description{
   color:#fff;
   font-size:1.2em;
@@ -372,15 +372,21 @@ h2.league-teal{
   color: #aaa;
   padding-bottom: 1rem;
   }
-  
+
 
 .site-promo h2 {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
-  font-size: 1.7rem;
-	line-height: 1.9rem;
-  color: #e76a00;
+  font-size: 3rem;
+	line-height: 3.4rem;
+  color: rgba(255,255,255,1);
+	text-shadow:1px 1px 0 #000;
   }
+
+.site-promo h2 span {
+	color:rgba(255,255,255,.7);
+	font-size:2.8rem;
+}
 
 .last-update{
   color:#999;
@@ -397,8 +403,10 @@ h2.league-teal{
 .site-section-first{
 	  color:#333;
 	  overflow:hidden;
-	  padding:2em 0 1em;
-		margin-top: 100px;}
+	  padding:0;
+		margin-top: 0;
+		background-color: rgba(0,0,0,.3);
+	}
 
 .site-section-actividades {
 	 background-color: #131A22;
@@ -513,9 +521,15 @@ h2.league-teal{
 	.site-promo h2 {
 			font-size: 1.9rem;
 		  line-height: 2rem;}
+
+	.site-promo h2 span{
+			font-size: 1.9rem;
+		  line-height: 2.5rem;}
+
 	.site-section-first{
 						margin-top: 0;
-					  background-color: #fff;}
+					  background-color: rgba(0,0,0,.3);}
+
 	h2.league {
 						font-size: 4.7rem;
 						color: #c8c8c8;
@@ -534,9 +548,14 @@ h2.league-teal{
 		font-size: 1.9rem;
 	  line-height: 2rem;}
 
+	.site-promo h2 span {
+		font-size: 1.9rem;
+	  line-height: 2rem;}
+	}
+
 	.site-section-first{
 				margin-top: 0;
-			  background-color: #fff;}
+			  background-color: rgba(0,0,0,.3);}
 
 	h2.league {
 				  font-size: 4.7rem;
@@ -560,17 +579,25 @@ h2.league-teal{
 .site-promo h2 {
 			font-size: 1.9rem;
 			line-height: 2rem;}
+
+.site-promo h2 span {
+			font-size: 1.9rem;
+			line-height: 2rem;}
 }
 @media only screen and (max-width:320px){
   .grid-cell-left {
           width:100%}
-	.site-promo h1 {
+.site-promo h1 {
 					font-size: 2.8rem;
 					line-height: 2rem;}
 
-	.site-promo h2 {
+.site-promo h2 {
 					 font-size: 1.9rem;
 					line-height: 2rem;}
+
+.site-promo h2 span {
+								font-size: 1.9rem;
+								line-height: 2rem;}
 }
 @media print{
   *{

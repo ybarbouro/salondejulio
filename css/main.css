@@ -155,6 +155,12 @@ img.wide {
       background-size: contain;
     }
 
+.full-image {
+    background:url('../assets/moyano.svg') 50% 50% no-repeat fixed;
+    min-height:100%;
+    background-size: cover;
+}
+
 .blackmamba {
       background: url('../img/macm-w.svg'), url('../img/blackmamba.png');
       background-repeat: no-repeat, repeat;
@@ -286,7 +292,7 @@ span.suscrib{
 /* ==========================================================================
    Magazine classes
    ========================================================================== */
-   
+
 .article-mag-wrap {
   max-width: 1000px;
   margin: 0 auto;
