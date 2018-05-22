@@ -536,11 +536,19 @@ h2.league-teal{
 					  background-color: rgba(0,0,0,.3);}
 
 	h2.league {
-						font-size: 4.7rem;
-						color: #c8c8c8;
-					  letter-spacing: 1px;
-						padding:0;
-					  margin:0;}
+			font-size: 4.7rem;
+			color: #c8c8c8;
+			letter-spacing: 1px;
+			padding:0;
+			 margin:0;}
+	h2.league-three {
+  		font-family:'Oswald', sans-serif;
+ 		font-weight: bold;
+  		font-size: 1.5rem;
+ 		line-height: 1.7rem;
+   		text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  		color: #e76a00;
+  		padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:460px){
   .grid-cell-left {
