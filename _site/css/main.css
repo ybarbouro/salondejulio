@@ -312,6 +312,7 @@ span.suscrib{
 .article-mag-header{
   text-align: center;
 }
+
 @media (max-width: 520px) {
   .article-header h2 {
     font-size: 1.2rem;
@@ -320,7 +321,7 @@ span.suscrib{
 
 .classification-header {
   text-transform: uppercase;
-  color: red;
+  color: #1a1a1a;
   letter-spacing: 0.1rem;
 }
 
