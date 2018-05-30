@@ -212,8 +212,8 @@ h2.league-three {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
   font-size: 3.7rem;
-	line-height: 3.7rem;
-	text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  line-height: 3.8rem;
+   text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
   padding-bottom: 1.3rem;
 }
@@ -223,7 +223,7 @@ h2.league-four{
   font-weight: bold;
   font-size: 3.7rem;
   text-shadow: 0 -1px 0 rgba(0,0,0,.7);
-  color: #069;
+  color: #6c7c8c;
   padding-bottom: 1.3rem;
 	letter-spacing: 2px;
 }
@@ -536,11 +536,19 @@ h2.league-teal{
 					  background-color: rgba(0,0,0,.3);}
 
 	h2.league {
-						font-size: 4.7rem;
-						color: #c8c8c8;
-					  letter-spacing: 1px;
-						padding:0;
-					  margin:0;}
+			font-size: 4.7rem;
+			color: #c8c8c8;
+			letter-spacing: 1px;
+			padding:0;
+			 margin:0;}
+	h2.league-three {
+  		font-family:'Oswald', sans-serif;
+ 		font-weight: bold;
+  		font-size: 1.5rem;
+ 		line-height: 1.7rem;
+   		text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  		color: #e76a00;
+  		padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:460px){
   .grid-cell-left {
@@ -569,6 +577,14 @@ h2.league-teal{
 					padding:0;
 					margin:0;
 				}
+	h2.league-three {
+  		font-family:'Oswald', sans-serif;
+ 		font-weight: bold;
+  		font-size: 1.5rem;
+ 		line-height: 1.7rem;
+   		text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  		color: #e76a00;
+  		padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:420px){
   h1{
@@ -588,6 +604,14 @@ h2.league-teal{
 .site-promo h2 span {
 			font-size: 1.9rem;
 			line-height: 2rem;}
+h2.league-three {
+  font-family:'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+   text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  color: #e76a00;
+  padding-bottom: 1.3rem;}	
 }
 @media only screen and (max-width:320px){
   .grid-cell-left {
@@ -601,8 +625,17 @@ h2.league-teal{
 					line-height: 2rem;}
 
 .site-promo h2 span {
-								font-size: 1.9rem;
-								line-height: 2rem;}
+					font-size: 1.9rem;
+					line-height: 2rem;}
+h2.league-three {
+  font-family:'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+   text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  color: #e76a00;
+  padding-bottom: 1.3rem;}	
+
 }
 @media print{
   *{
