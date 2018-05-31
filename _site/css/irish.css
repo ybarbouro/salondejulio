@@ -204,7 +204,7 @@ h2.league-two {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
   font-size: 3.7rem;
-  color: #5c6c7c;
+  color: #4d5c6b;
   padding-bottom: 3rem;
 }
 
@@ -418,6 +418,13 @@ h2.league-teal{
 	 padding:2em 0 1em;
 	 margin-top: 0;
 }
+
+.site-section-timex {
+	 background-color: #23303d;
+	 padding:2em 0 1em;
+	 margin-top: 0;
+}
+
 
 
 .site-section-nm{
