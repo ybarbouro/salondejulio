@@ -352,12 +352,11 @@ h1.time {
 .izquierda {
 	margin: 10px;
 	float: left;
-	
+
 }
 .derecha{
 	margin: 1px;
 	float: right;
-	
 }
 
 .timeline .event {
@@ -396,7 +395,53 @@ h1.time {
   content: "";
   top: 5px;
 }
-	
+
+
+@media only screen and (max-width:600px) {
+  .timeline h1,
+  .timeline h2,
+  .timeline h3 {
+    letter-spacing: 1.3px;
+    font-size: 1.1em;
+  }
+
+  .timeline {
+    border-left: 1px solid #4298C3;
+    margin: 0 auto;
+    position: relative;
+    line-height: 1.3em;
+    font-size: 1em;
+    padding: 7px;
+    list-style: none;
+    text-align: left;
+    font-weight: 100;
+    min-width: 90%;
+  }
+
+  .timeline img {
+  	width: 45%;
+  	border-radius: 50%;
+  	border: 2px solid #ccc;
+  	shape-outside: circle(50%);
+  }
+
+  .timeline .event {
+    padding-top: 25px;
+  }
+
+  .timeline .event:before {
+    left: 0;
+    content: attr(data-date);
+    text-align: right;
+    width: 100%;
+    line-height: 1.1em;
+  }
+  .timeline .event:after {
+    left: -14px;
+  }
+}
+
+
 /* ==========================================================================
    Magazine classes
    ========================================================================== */
