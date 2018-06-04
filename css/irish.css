@@ -623,16 +623,16 @@ h2.league-three {
 }
 @media only screen and (max-width:420px){
 .in-the-wild{
-  font-size:.7em;}
+  font-size:0.7em;}
 
 .in-the-wild h3 {
-  font-size: 8em;}
+  font-size:0.8em;}
   
 .wild{
-	  font-size:.7em;}  
+	  font-size:0.7em;}  
 	  
 .wild h3{
-	  font-size:8em;} 
+	  font-size:0.8em;} 
 	  
 .grid-cell-left {
           width:100%}
