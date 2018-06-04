@@ -205,7 +205,7 @@ h2.league-two {
   font-weight: bold;
   font-size: 3.7rem;
   color: #4d5c6b;
-  padding-bottom: 3rem;
+  padding-bottom: 1.3rem;
 }
 
 h2.league-three {
@@ -213,9 +213,8 @@ h2.league-three {
   font-weight: bold;
   font-size: 3.7rem;
   line-height: 3.8rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
-  padding-bottom: 1.3rem;
+  padding-bottom: 1.1rem;
 }
 
 h2.league-four{
@@ -624,7 +623,7 @@ h2.league-three {
 @media only screen and (max-width:420px){
 .in-the-wild{
   font-size:0.8em;
-	line-height: 0.9em;
+	line-height: 1em;
 	width:100%;}
 
 .in-the-wild h3 {
@@ -633,7 +632,7 @@ h2.league-three {
   
 .wild{
 	  font-size:0.8em;
-	  line-height: 0.9em;
+	  line-height: 1em;
 		width:100%;}  
 	  
 .wild h3{
@@ -656,11 +655,10 @@ h2.league-three {
 h2.league-three {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
-  font-size: 1.5rem;
-  line-height: 1.7rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  font-size: 1.9rem;
+  line-height: 2.1rem;
   color: #e76a00;
-  padding-bottom: 1.3rem;}	
+  padding-bottom: 1rem;}	
 
 }
 @media print{
