@@ -594,7 +594,7 @@ h2.league-teal{
   		color: #e76a00;
   		padding-bottom: 1.3rem;}
 }
-@media only screen and (max-width:420px){
+@media only screen and (max-width:440px){
   h1{
     font-size:2.5em}
   html{
@@ -624,21 +624,21 @@ h2.league-three {
 @media only screen and (max-width:420px){
 .in-the-wild{
   font-size:0.8em;
-	line-height: 0.9em;
+	line-height: 0.7em;
 	width:100vw;}
 
 .in-the-wild h3 {
   font-size:1.1em;
-  line-height: 1.2em;}
+  line-height: 1em;}
   
 .wild{
 	  font-size:0.8em;
-	  line-height: 0.9em;
+	  line-height: 0.7em;
 		width:100vw;}  
 	  
 .wild h3{
 	  font-size: 1.1em;
-	 line-height: 1.2em;} 
+	 line-height: 1em;} 
 	  
 .grid-cell-left {
           width:100%}
