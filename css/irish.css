@@ -571,7 +571,6 @@ h2.league-teal{
 	.site-promo h2 span {
 		font-size: 1.9rem;
 	  line-height: 2rem;}
-	}
 
 	.site-section-first{
 				margin-top: 0;
@@ -586,10 +585,9 @@ h2.league-teal{
 				}
 	h2.league-three {
   		font-family:'Oswald', sans-serif;
- 		font-weight: bold;
+ 		  font-weight: bold;
   		font-size: 1.5rem;
- 		line-height: 1.7rem;
-   		text-shadow:0 -1px 0 rgba(0,0,0,.5);
+ 		  line-height: 1.7rem;
   		color: #e76a00;
   		padding-bottom: 1.3rem;}
 }
@@ -603,7 +601,7 @@ h2.league-teal{
 	.grid-cell{
 		  display:inline-block;
 		  vertical-align:middle;
-		  width:50%;}		
+		  width:50%;}
 .grid-cell-left {
         width:100%}
 .site-promo h1 {
@@ -622,7 +620,6 @@ h2.league-three {
   font-weight: bold;
   font-size: 1.5rem;
   line-height: 1.7rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
   padding-bottom: 1.3rem;}
 }
