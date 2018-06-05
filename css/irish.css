@@ -455,7 +455,7 @@ h2.league-teal{
   padding:10px}
 .site-section-video h2{
   margin:1em 0}
-  
+
 .in-the-wild{
   font-size:1.25em;
   margin:0 auto;
@@ -598,6 +598,12 @@ h2.league-teal{
     font-size:2.5em}
   html{
     font-size:13px}
+	.grid{
+		  margin:10px -5px 10px 0;}
+	.grid-cell{
+		  display:inline-block;
+		  vertical-align:middle;
+		  width:50%;}		
 .grid-cell-left {
         width:100%}
 .site-promo h1 {
@@ -618,7 +624,7 @@ h2.league-three {
   line-height: 1.7rem;
    text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
-  padding-bottom: 1.3rem;}	
+  padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:420px){
 .in-the-wild{
@@ -629,16 +635,16 @@ h2.league-three {
 .in-the-wild h3 {
   font-size:1.1em;
   line-height: 1.1em;}
-  
+
 .wild{
 	  font-size:0.8em;
 	  line-height: 1em;
-		width:100%;}  
-	  
+		width:100%;}
+
 .wild h3{
 	  font-size: 1.1em;
-	 line-height: 1.1em;} 
-	  
+	 line-height: 1.1em;}
+
 .grid-cell-left {
           width:100%}
 .site-promo h1 {
@@ -658,7 +664,7 @@ h2.league-three {
   font-size: 1.9rem;
   line-height: 2.1rem;
   color: #e76a00;
-  padding-bottom: 1rem;}	
+  padding-bottom: 1rem;}
 
 }
 @media print{
