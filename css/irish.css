@@ -424,8 +424,6 @@ h2.league-teal{
 	 margin-top: 0;
 }
 
-
-
 .site-section-nm{
     background-color:#1a1a1a;
     overflow:hidden;
@@ -558,7 +556,9 @@ h2.league-teal{
   		padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:460px){
-  .grid-cell-left {
+	.container{
+		  padding:0 5px;}
+	.grid-cell-left {
     width:100%}
 	.site-promo h1 {
 		font-size: 2.8rem;
