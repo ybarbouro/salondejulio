@@ -209,6 +209,22 @@ max-width: 315px;
   -moz-column-count:2;
   column-count:2;
 }
+
+.suscribe {
+  background-color:#131a22;
+  color:#fff;
+  letter-spacing:2px;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+span.suscrib{
+  letter-spacing:3px;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
 @media only screen and (max-width:600px){
 .main-c {
     background: url('../img/sj-lettering.svg') top 100px center no-repeat;
@@ -254,21 +270,19 @@ max-width: 315px;
 .columns {
         column-count:1;
         }
-}
-
-.suscribe {
-  background-color:#131a22;
-  color:#fff;
-  letter-spacing:2px;
-  margin-bottom: 0;
-  padding-top: 10px;
-  padding-bottom: 0;
-}
-span.suscrib{
-  letter-spacing:3px;
-  font-weight: bold;
-  font-size: 1.5em;
-  line-height: 2em;
+        .suscribe {
+          background-color:#131a22;
+          color:#fff;
+          margin-bottom: 0;
+          padding-top: 10px;
+          padding-bottom: 0;
+          line-height: 3em;
+        }
+        span.suscrib{
+          letter-spacing:1px;
+          font-size: 1.1em;
+          line-height: 3em;
+        }
 }
 
 
@@ -401,7 +415,7 @@ h1.time {
  h1.time {
   letter-spacing: 1px;
   font-size: 1.2em;
-}	
+}
   .timeline h1,
   .timeline h2,
   .timeline h3 {
