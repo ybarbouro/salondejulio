@@ -398,6 +398,10 @@ h1.time {
 
 
 @media only screen and (max-width:600px) {
+ h1.time {
+  letter-spacing: 1px;
+  font-size: 1.2em;
+}	
   .timeline h1,
   .timeline h2,
   .timeline h3 {
@@ -450,7 +454,7 @@ h1.time {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
-  color: #a1a1a1a;
+  color: #1a1a1a;
 
 }
 

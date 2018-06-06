@@ -31,8 +31,8 @@ strong{
 }
 
 a:hover.no-hov {
-  text-decoration:none};
-}
+  text-decoration:none}
+
 img{
   border-style:none;
   vertical-align:middle}
@@ -205,7 +205,7 @@ h2.league-two {
   font-weight: bold;
   font-size: 3.7rem;
   color: #4d5c6b;
-  padding-bottom: 3rem;
+  padding-bottom: 1.3rem;
 }
 
 h2.league-three {
@@ -213,9 +213,8 @@ h2.league-three {
   font-weight: bold;
   font-size: 3.7rem;
   line-height: 3.8rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
-  padding-bottom: 1.3rem;
+  padding-bottom: 1.1rem;
 }
 
 h2.league-four{
@@ -382,8 +381,8 @@ h2.league-teal{
 .site-promo h2 {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
-  font-size: 3rem;
-	line-height: 3.4rem;
+  font-size: 2.9rem;
+	line-height: 3.3rem;
   color: rgba(255,255,255,1);
 	text-shadow:1px 1px 0 #000;
   }
@@ -409,8 +408,8 @@ h2.league-teal{
 	  color:#333;
 	  overflow:hidden;
 	  padding:0;
-		margin-top: 0;
-		background-color: rgba(0,0,0,.3);
+	  margin-top: 0;
+	  background-color: rgba(0,0,0,.3);
 	}
 
 .site-section-actividades {
@@ -424,8 +423,6 @@ h2.league-teal{
 	 padding:2em 0 1em;
 	 margin-top: 0;
 }
-
-
 
 .site-section-nm{
     background-color:#1a1a1a;
@@ -446,7 +443,7 @@ h2.league-teal{
         padding:2em 0 1em}
 
 .site-section-video{
-  background-color: #ccc;
+  background-color: #c3cfe2;
   color:#fff;
   text-align:center;
   padding:2em 0 3em}
@@ -456,6 +453,7 @@ h2.league-teal{
   padding:10px}
 .site-section-video h2{
   margin:1em 0}
+
 .in-the-wild{
   font-size:1.25em;
   margin:0 auto;
@@ -474,8 +472,8 @@ h2.league-teal{
 			 		   color:#c8c8c8;}
 
 .wild{
-		font-size:1.25em;
-		margin:0 auto;
+	  font-size:1.25em;
+	  margin:0 auto;
 	  max-width:720px}
 
 .wild {
@@ -558,7 +556,9 @@ h2.league-teal{
   		padding-bottom: 1.3rem;}
 }
 @media only screen and (max-width:460px){
-  .grid-cell-left {
+	.container{
+		  padding:0 5px;}
+	.grid-cell-left {
     width:100%}
 	.site-promo h1 {
 		font-size: 2.8rem;
@@ -571,7 +571,6 @@ h2.league-teal{
 	.site-promo h2 span {
 		font-size: 1.9rem;
 	  line-height: 2rem;}
-	}
 
 	.site-section-first{
 				margin-top: 0;
@@ -586,18 +585,23 @@ h2.league-teal{
 				}
 	h2.league-three {
   		font-family:'Oswald', sans-serif;
- 		font-weight: bold;
+ 		  font-weight: bold;
   		font-size: 1.5rem;
- 		line-height: 1.7rem;
-   		text-shadow:0 -1px 0 rgba(0,0,0,.5);
+ 		  line-height: 1.7rem;
   		color: #e76a00;
   		padding-bottom: 1.3rem;}
 }
-@media only screen and (max-width:420px){
+@media only screen and (max-width:440px){
   h1{
     font-size:2.5em}
   html{
     font-size:13px}
+	.grid{
+		  margin:10px -5px 10px 0;}
+	.grid-cell{
+		  display:inline-block;
+		  vertical-align:middle;
+		  width:50%;}
 .grid-cell-left {
         width:100%}
 .site-promo h1 {
@@ -616,12 +620,29 @@ h2.league-three {
   font-weight: bold;
   font-size: 1.5rem;
   line-height: 1.7rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
   color: #e76a00;
-  padding-bottom: 1.3rem;}	
+  padding-bottom: 1.3rem;}
 }
-@media only screen and (max-width:320px){
-  .grid-cell-left {
+@media only screen and (max-width:420px){
+.in-the-wild{
+  font-size:0.8em;
+	line-height: 1em;
+	width:100%;}
+
+.in-the-wild h3 {
+  font-size:1.1em;
+  line-height: 1.1em;}
+
+.wild{
+	  font-size:0.8em;
+	  line-height: 1em;
+		width:100%;}
+
+.wild h3{
+	  font-size: 1.1em;
+	 line-height: 1.1em;}
+
+.grid-cell-left {
           width:100%}
 .site-promo h1 {
 					font-size: 2.8rem;
@@ -637,11 +658,10 @@ h2.league-three {
 h2.league-three {
   font-family:'Oswald', sans-serif;
   font-weight: bold;
-  font-size: 1.5rem;
-  line-height: 1.7rem;
-   text-shadow:0 -1px 0 rgba(0,0,0,.5);
+  font-size: 1.9rem;
+  line-height: 2.1rem;
   color: #e76a00;
-  padding-bottom: 1.3rem;}	
+  padding-bottom: 1rem;}
 
 }
 @media print{
