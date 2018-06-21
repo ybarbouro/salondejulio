@@ -4,6 +4,11 @@ title: Pintores se alistan para Salón de Julio
 date: 2018-06-14 00:00:00
 comment: El Universo | Cultura.
 image: "https://www.eluniverso.com/sites/default/files/styles/powgallery_800/public/fotos/2018/06/13295042.jpg?itok=ZGX0s4hJ"
+autor: Javier Gavilanes S.
+obra: Percepciones entrecruzadas.
+tecnica: Polvo de pintura removida y conservada en celdas de plástico.
+premio: Primer premio 2017
+image-thumb: https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1500798022/020_Percepciones_entrecruzadas_t2rnwh.jpg
 ffw: Leer más
 --- 
 Una vez más, decenas de artistas se preparan para ser parte de una nueva edición del tradicional certamen pictórico organizado por la Dirección Municipal de Cultura. Se trata del Salón de Julio, que por 59 años ha acogido las diversas expresiones de nacionales y extranjeros, y que en este 2018 otorgará tres premios adquisición, cuyo monto total será de $ 20.000.
