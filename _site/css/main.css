@@ -225,6 +225,23 @@ span.suscrib{
   line-height: 2em;
 }
 
+.ina {
+  background-color:#e76a00;
+  color:rgba(255, 255, 255, 0.9);
+  letter-spacing:2px;
+  margin-bottom: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+span.ina{
+  letter-spacing:3px;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
 @media only screen and (max-width:600px){
 .main-c {
     background: url('../img/sj-lettering.svg') top 100px center no-repeat;
