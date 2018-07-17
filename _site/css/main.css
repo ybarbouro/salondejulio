@@ -94,6 +94,25 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   
+ .premiere-c {
+ position: relative;
+ background-color: #131A22;
+ color: #c8c8c8;
+}
+
+.premiere-c h3 {
+	color:#fff;
+}
+
+img.rounds {
+   width: 190px;
+	 margin-bottom: 0.5em;
+   border-radius: 50%;
+   -webkit-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+   -moz-box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+   box-shadow: 6px 7px 13px -6px rgba(0,0,0,0.75);
+ }
 
    .main {margin-top: 0;
        position:relative;
@@ -226,7 +245,7 @@ span.suscrib{
 }
 
 .gala {
-  background-color:#e76a00;
+  background: #23303d;
   color:rgba(255, 255, 255, 0.9);
   letter-spacing:2px;
   margin-bottom: 0;
