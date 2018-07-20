@@ -3,7 +3,7 @@ layout: post
 title: Museo, Arte y Ciudad
 date: 2017-04-21 00:00:00
 comment: Salón de Julio
-image: "http://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1493760543/mmgye/777.jpg"
+image: "https://res.cloudinary.com/magnvs/image/upload/c_scale,w_500/v1493760543/mmgye/777.jpg"
 autor: Marco A. Alvarado
 obra: Decreto optimista para hippies y surrealista contemporáneo
 tecnica: Témpera sobre papel
