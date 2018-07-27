@@ -4,6 +4,11 @@ title: El Salón de Julio revisa su primera década
 date: 2018-07-07 00:00:00
 comment: El Telégrafo | Redacción Cultura
 image: "https://res.cloudinary.com/magnvs/image/upload/v1531690084/dopdifw4qkagejtsrrve.jpg"
+autor: Humberto Moré.
+obra: Libertad
+tecnica: Óleo sobre masonita.
+premio: Primer premio 1962
+image-thumb: https://res.cloudinary.com/magnvs/image/upload/v1532729266/iuaudy1mdjpg7qwyz4wg.jpg
 ffw: Leer más
 ---
 *En las obras predomina la búsqueda de los modernistas por representar el precolombinismo desde lo abstracto y la experimentación de materiales.*<br /><br />En 2016, el Museo Municipal abrió una muestra previa al Salón de Julio con una selección de 12 obras sobre los últimos 20 años del certamen. Aquella selección daba cuenta de trabajos ganadores, con desarrollos distintos.
