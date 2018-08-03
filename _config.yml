@@ -1,6 +1,9 @@
 name: SALÓN DE JULIO
 markdown: kramdown
 highlighter: rouge
+
+port: 8000
+
 exclude: [main.scss, config.rb]
 description: Sitio informativo del Programa Museo, Arte y Ciudad - Salón de Julio 2018
 url: https://www.salondejulio.com/
