@@ -94,7 +94,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   
+
  .premiere-c {
  position: relative;
  background-color: #131A22;
@@ -175,9 +175,10 @@ img.wide {
     }
 
 .full-image {
-    background:url('../assets/sj-2018.svg') top center no-repeat fixed;
+    /*background:url('../assets/sj-2018.svg') top center no-repeat fixed;*/
     min-height:100%;
     background-size: cover;
+    background-color: #EADBCE;
 }
 
 .blackmamba {
