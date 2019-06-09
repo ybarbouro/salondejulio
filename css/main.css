@@ -176,7 +176,6 @@ img.wide {
 
 .full-image {
     min-height:100%;
-    background-size: cover;
     background-color: #778899;
 }
 
