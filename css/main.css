@@ -175,7 +175,6 @@ img.wide {
     }
 
 .full-image {
-    background:url(//res.cloudinary.com/magnvs/image/upload/v1560031042/olskkow3bcbxg66ff2q8.svg) top center no-repeat fixed;
     min-height:100%;
     background-size: cover;
     background-color: #778899;
