@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salón de Julio" 60 años de arte en Guayaquil
+title: Salón de Julio. 60 años de arte en Guayaquil
 date: 2019-07-12 12:00:00
 comment: Mishell Sánchez | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1562937798/17736186_hp7y7m.jpg"
