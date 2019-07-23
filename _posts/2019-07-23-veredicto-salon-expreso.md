@@ -6,9 +6,7 @@ comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1563917265/jurado-2019_qyd9j1.jpg"
 ffw: Leer más  
 ---
-Pinturas que hablan por sí solas, propuestas no tradicionales, participación juvenil y mucha expectativa, son parte del coctel de novedades que notaron los jueces -de admisión y de premiación- en las obras que compitene n la sexagésima edición de uno de los concursos de artes visuales de mayopr relevancia del país: el Salón de Julio.  
-
-Rodrigo Alonso (crítico y curador independiente, argentino), hernán Miranda (artista chileno) y Roberto Echen (artista y curador argentino), son los jueces de premiación del concurso, quienes deliberaron hasta ayer sobre cuáles serán los ejemplares ganadores de este certamen que ya se ha convertido en una tradición en el Puerto Principal.  
+Pinturas que hablan por sí solas, propuestas no tradicionales, participación juvenil y mucha expectativa, son parte del coctel de novedades que notaron los jueces -de admisión y de premiación- en las obras que compitene n la sexagésima edición de uno de los concursos de artes visuales de mayopr relevancia del país: el Salón de Julio.<br /><br />Rodrigo Alonso (crítico y curador independiente, argentino), hernán Miranda (artista chileno) y Roberto Echen (artista y curador argentino), son los jueces de premiación del concurso, quienes deliberaron hasta ayer sobre cuáles serán los ejemplares ganadores de este certamen que ya se ha convertido en una tradición en el Puerto Principal.  
 
 Es la primera ocasión en que los artistas extranjeros participan como jurado en esta competencia que otorgará 20.000 dólares en premios y varias menciones honoríficas.  
 
