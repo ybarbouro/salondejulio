@@ -6,7 +6,9 @@ comment: Mishell Sánchez | El Universo
 image: "//res.cloudinary.com/magnvs/image/upload/v1562937798/17736186_hp7y7m.jpg"
 ffw: Leer más  
 ---
-El óleo, acrílico, tapillas de refrescos y todo lo que la creatividad de un artista permita han sido parte de las diversas obras que durante seis décadas han participado en el Salón de Julio - Pintura Fundación de Guayaquil.<br /><br/>Fue el 25 de julio de 1959 cuando en la biblioteca de la ciudad se inauguró la primera muestra bajo la alcaldía de Luis Robles Plaza. Alrededor de 23 pintores concursaron por el primer lugar que finalmente tuvo como ganador a Lloyd Wulf con la obra Danzantes.<br /><br />Al acto también asistió el artista Oswaldo Guayasamín, quien además de exhibir sus pinturas fue miembro del jurado. Una primera edición que también contó con la muestra pictórica de Hans Michaelson y Manuel Rendón Seminario. Y en donde Diario EL UNIVERSO otorgó un premio estímulo.
+El óleo, acrílico, tapillas de refrescos y todo lo que la creatividad de un artista permita han sido parte de las diversas obras que durante seis décadas han participado en el Salón de Julio - Pintura Fundación de Guayaquil.<br /><br/>Fue el 25 de julio de 1959 cuando en la biblioteca de la ciudad se inauguró la primera muestra bajo la alcaldía de Luis Robles Plaza. Alrededor de 23 pintores concursaron por el primer lugar que finalmente tuvo como ganador a Lloyd Wulf con la obra Danzantes.  
+
+Al acto también asistió el artista Oswaldo Guayasamín, quien además de exhibir sus pinturas fue miembro del jurado. Una primera edición que también contó con la muestra pictórica de Hans Michaelson y Manuel Rendón Seminario. Y en donde Diario EL UNIVERSO otorgó un premio estímulo.
 
 Melvin Hoyos, director de Cultura de la Municipalidad, señala que el Salón de Julio ha contribuido “al descubrimiento de grandes valores de la plástica ecuatoriana (...), los maestros que nos han dado grandes satisfacciones a lo largo del tiempo”.
 
