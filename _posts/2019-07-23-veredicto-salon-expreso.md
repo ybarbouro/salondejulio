@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Salón de Julio ya tienen su veredicto
+title: El Salón de Julio ya tiene su veredicto
 date: 2019-07-23 15:53:00
 comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1563917265/jurado-2019_qyd9j1.jpg"
