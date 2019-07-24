@@ -6,7 +6,9 @@ comment: Juan Ponce Merchán | Expreso
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980381/gardeneira_expreso_kewja3.jpg"
 ffw: Leer más  
 ---
-**La autora es Diana Gardeneira y hace énfasis en la violencia de género.**<br /><br />La decisión de los tres jurados fue unánime. ‘Cojuda, acepta mi halago’ es el nombre de la obra pictórica de la artista visual ecuatoriana-costarricense Diana Gardeneira (nombre artístico). Ella es la ganadora de la sexagésima edición del concurso de artes visuales Salón de Julio. Su creación de ocho cuadros estuvo entre las 23 seleccionadas de un total de 200 concursantes.<br /><br />A la artista le tomó por sorpresa la designación y mencionó que en la elaboración del ejemplar tardó más de un mes. La obra está compuesta por 60 piezas, entre las que predominan telas de cortinas, vestidos, manteles y tapices de muebles, haciendo una conjugación de vistosos colores y texturas.  
+**La autora es Diana Gardeneira y hace énfasis en la violencia de género.**<br /><br />La decisión de los tres jurados fue unánime. ‘Cojuda, acepta mi halago’ es el nombre de la obra pictórica de la artista visual ecuatoriana-costarricense Diana Gardeneira (nombre artístico). Ella es la ganadora de la sexagésima edición del concurso de artes visuales Salón de Julio. Su creación de ocho cuadros estuvo entre las 23 seleccionadas de un total de 200 concursantes.  
+
+A la artista le tomó por sorpresa la designación y mencionó que en la elaboración del ejemplar tardó más de un mes. La obra está compuesta por 60 piezas, entre las que predominan telas de cortinas, vestidos, manteles y tapices de muebles, haciendo una conjugación de vistosos colores y texturas.  
 
 “Tiene muchas técnicas y le dan sentido porque todas las mujeres somos variadas. Aquí están representadas las identidades y culturas”, explicó Gardeneira, que gusta de este apellido artístico aunque el verdadero es García.
 
