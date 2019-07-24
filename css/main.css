@@ -305,7 +305,7 @@ span.gala {
 .columns {
         column-count:1;
         }
-        .suscribe {
+.suscribe {
           background-color:#131a22;
           color:#fff;
           margin-bottom: 0;
@@ -313,11 +313,24 @@ span.gala {
           padding-bottom: 0;
           line-height: 3em;
         }
-        span.suscrib{
-          letter-spacing:1px;
+ span.suscrib{
           font-size: 1.1em;
-          line-height: 3em;
+          line-height: 1.3em;
         }
+.gala {
+  letter-spacing:1px;
+  margin-bottom: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+span.gala {
+  letter-spacing:2px;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
 }
 
 
