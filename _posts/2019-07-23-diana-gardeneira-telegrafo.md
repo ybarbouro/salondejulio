@@ -6,6 +6,7 @@ comment: Redacción Cultura | El Telégrafo
 image: "//res.cloudinary.com/magnvs/image/upload/v1563980363/navas_xk6tss.jpg"
 autor: Diana Gardeneira
 tecnica: Gardeneira trabaja en este proyecto hace tres años en colaboración con mujeres abusadas.
+premio: Primer premio 2019
 image-thumb: "//res.cloudinary.com/magnvs/image/upload/v1564003509/diana-garcia-telegrafo_zdbzvd.jpg"
 ffw: Leer más  
 ---
