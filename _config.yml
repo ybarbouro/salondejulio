@@ -19,3 +19,5 @@ defaults:
       type: projects
     values:
       layout: project
+
+theme: jekyll-theme-cayman
